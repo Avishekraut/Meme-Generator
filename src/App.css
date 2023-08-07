@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+nav{
+  display: flex;
+  background: linear-gradient(90deg, #672280 0%, #A626D3 100%);
+  color: white;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+}
+
+.logo{
+  width: 31.306px;
+  height: 26.218px;
+  padding-right: 7px;
+}
