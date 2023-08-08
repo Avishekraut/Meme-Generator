@@ -39,4 +39,9 @@ nav{
 .form--button{
   grid-column: 1 / -1;
   font-family: 'Inter', sans-serif;
+  background: linear-gradient(90.41deg, #711F8D 1.14%, #A818DA 100%);
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
 }
