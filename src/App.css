@@ -18,3 +18,25 @@ nav{
   height: 26.218px;
   padding-right: 7px;
 }
+
+.meme-container{
+  padding: 36px;
+}
+
+.form{
+  display: grid;
+  grid-template: 40px 40px/ 1fr 1fr;
+  gap: 17px;
+}
+
+.form--input{
+  font-family: 'Inter', sans-serif;
+  border-radius: 5px;
+  border: 1px solid #D5D4D8;
+  text-indent: 5px;
+}
+
+.form--button{
+  grid-column: 1 / -1;
+  font-family: 'Inter', sans-serif;
+}
