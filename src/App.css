@@ -45,3 +45,14 @@ nav{
   cursor: pointer;
   border-radius: 5px;
 }
+
+.imgContainer{
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+}
+
+.memeImage{
+  width: 477px;
+  height: 268px;
+}
